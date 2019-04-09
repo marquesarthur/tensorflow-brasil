@@ -4,7 +4,6 @@ classificador-cachorros-gatos-estimator/treino.npy
 classificador-cachorros-gatos-estimator/teste.npy
 classificador-carros/models/
 regressor-face-pose/models/
-*.png
 *.DS_Store
 *.zip
 *.rar
